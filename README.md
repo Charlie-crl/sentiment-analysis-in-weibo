@@ -7,7 +7,7 @@
 
 ![](gender.jpg)
 
-![]()
+![](wordcloud.PNG)
 
-![]()
+![](sentiment.jpg)
 
